@@ -9,6 +9,10 @@ public class Updater {
         this.libPass = libPass;
     }
 
+    public static void main(String[] args) {
+
+    }
+
     public String myVal(String pass) {
         if (pass.equals(libPass)) {
             return "\n" +
