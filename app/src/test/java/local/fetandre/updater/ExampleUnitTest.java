@@ -1,4 +1,4 @@
-package team.rvn.updater;
+package local.fetandre.updater;
 
 import org.junit.Test;
 

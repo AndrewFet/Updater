@@ -1,4 +1,4 @@
-package team.rvn.lib;
+package local.fetandre.lib;
 
 public class MyClass {
 
