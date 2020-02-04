@@ -1,6 +1,6 @@
 package local.fetandre.lib;
 
-public class MyClass {
+public class Updater {
 
     String libPass = "Mallesh";
 
