@@ -5,6 +5,10 @@ public class Updater {
     String libPass = "Mallesh";
 
 
+    public Updater(String libPass) {
+        this.libPass = libPass;
+    }
+
     public String myVal(String pass) {
         if (pass.equals(libPass)) {
             return "\n" +
